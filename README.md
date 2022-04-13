@@ -1,13 +1,7 @@
 <!-- Credit : ABSphreak/ABSphreak-->
-<div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-</div>
-
-<div align="center" width="50">
-
-<img src=".gif" alt="Welcome!" width="300"/>
-
-</div>
+<p align='center'>
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=Hi+there,;fellow+</developers>!;I'm+Carabelli+🎩">
+</p>
 
 <div align="center">
 
@@ -27,7 +21,7 @@ or <a href="mailto:MrPanda751+github@protonmail.ch"><b>email</b></a> me
 
 </br>
 </br>
-<i>Credit : ABSphreak, Random dev joke for you! (create your own by clicking here ↓)</i><br>
+<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 ---
@@ -39,15 +33,3 @@ or <a href="mailto:MrPanda751+github@protonmail.ch"><b>email</b></a> me
 <a href="https://gitlab.com/acaalp.25" target="_blank"><img src="https://img.shields.io/badge/Gitlab-%230A0A0A.svg?&style=flat-square&logo=gitlab&logoColor=white" alt="Gitlab"></a>
 
 </div>
-
-<!--
-**ABSphreak/ABSphreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
