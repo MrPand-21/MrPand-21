@@ -21,8 +21,8 @@ or <a href="mailto:MrPanda751+github@protonmail.ch"><b>email</b></a> me
 
 </br>
 </br>
-<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?theme=random" alt="README Jokes"></a><br>
+<i>Random dev joke for you! (create your own by clicking here ↑)</i>
 
 ---
 [![HitCount](http://hits.dwyl.com/MrPand-21/MrPand-21.svg)](http://hits.dwyl.com/MrPand-21/MrPand-21)
