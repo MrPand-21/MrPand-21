@@ -22,8 +22,6 @@ or <a href="mailto:MrPanda751+github@protonmail.ch"><b>email</b></a> me
 <i>Random dev joke for you! (create your own by clicking here ↑)</i>
 
 ---
-[![HitCount](http://hits.dwyl.com/MrPand-21/MrPand-21.svg)](http://hits.dwyl.com/MrPand-21/MrPand-21)
-
 
 <i>Follow me around the web:</i><br>
 
