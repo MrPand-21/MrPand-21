@@ -11,6 +11,8 @@ Please feel free to clone/fork projects, raise issues and
 Ask me anything <a href="https://github.com/MrPand-21/MrPand-21/issues/new"><b>here</b></a><br>
 or <a href="mailto:MrPanda751+github@protonmail.ch"><b>email</b></a> me
 
+Co-founder @ Instudi
+
 <i>Happy Coding!</i> :)
 
   <a href="https://github.com/MrPand-21"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MrPand-21&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=F4D03E&icon_color=F4D03E&hide_border=true" /></a><a href="https://github.com/MrPand-21"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrPand-21&bg_color=0d1117&text_color=bdc3c7&title_color=F4D03E&hide_border=true&layout=compact&langs_count=10" /></a>
